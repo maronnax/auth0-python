@@ -15,9 +15,9 @@ def find_version():
 
 
 setup(
-    name='auth0-python',
+    name='setec-auth0-python',
     version=find_version(),
-    description='Auth0 Python SDK',
+    description='Fork of the Auth0 Python SDK',
     author='Auth0',
     author_email='support@auth0.com',
     license='MIT',
